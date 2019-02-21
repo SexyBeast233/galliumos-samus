@@ -1,0 +1,12 @@
+[Unit]
+Description=Auto Start Audio
+After=lightdm.service
+
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/amixer -c 0 cset name='DAC1 MIXL DAC1 Switch' on
+ExecStart=/usr/bin/amixer -c 0 cset name='DAC1 MIXR DAC1 Switch' on
+
+[Install]
+WantedBy=multi-user.target

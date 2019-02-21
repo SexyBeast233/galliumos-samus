@@ -1,0 +1,12 @@
+Package: deepin-galliumos-samus
+Version: 2.9901
+Architecture: all
+Maintainer: GalliumOS <galliumos@galliumos.org>
+Installed-Size: 74
+Depends: firmware-intel-sound
+Replaces: pulseaudio
+Provides: Deepin
+Section: admin
+Priority: required
+Description: GalliumOS customizations for SAMUS
+ This package contains SAMUS-specific files for GalliumOS.Modify for Deepin on ChromeBook Pixel 2015
