@@ -1,6 +1,0 @@
-6e0b7db735c0cc33525e8035afd035bb  usr/bin/samus-alsaenable-headphones
-7090e9f7ca600c033ad1f0763ead6bdc  usr/bin/samus-alsaenable-microphone
-0fcc9828b4a5e6557ce1b401d07654f1  usr/bin/samus-alsaenable-speakers
-3be3742a1bffa344e2d24dc715152f86  usr/bin/samus-touch-reset
-d064b525469b48829054604b7db1d8a1  usr/share/doc/deepin-galliumos-samus/changelog.gz
-979d53a96dd4c3a5020d3aa07ad1a285  var/lib/alsa/asound.state
