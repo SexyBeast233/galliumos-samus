@@ -1,14 +1,14 @@
-Source: galliumos-samus
+Source: deepin-galliumos-samus
 Section: admin
 Priority: required
 Maintainer: GalliumOS <galliumos@galliumos.org>
 Standards-Version: 3.9.1
 
-Package: galliumos-samus
+Package: deepin-galliumos-samus
 Architecture: all
 Priority: required
-Depends: galliumos-base, galliumos-broadwell, galliumos-hidpi
-Provides: galliumos-device
-Replaces: galliumos-broadwell, pulseaudio
+Depends:  firmware-intel-sound
+Provides: Deepin
+Replaces: pulseaudio
 Description: GalliumOS customizations for SAMUS
- This package contains SAMUS-specific files for GalliumOS
+ This package contains SAMUS-specific files for GalliumOS.Modify for Deepin on ChromeBook Pixel 2015

@@ -6,3 +6,4 @@ This is (hopefully) a temporary package which will be incorporated into
 a higher-order GalliumOS package, after resolving the issues associated
 therewith.
 
+Modify for Deepin on ChromeBook Piexl 2015
