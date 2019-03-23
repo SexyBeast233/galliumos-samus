@@ -1,3 +1,6 @@
+deepin-galliumos-samus (2.99901) bismuth; urgency=medium
+    *enable audio.service
+
 deepin-galliumos-samus (2.9901) bismuth; urgency=medium
 
   * Prepare for GalliumOS 3.0
