@@ -19,6 +19,6 @@ Before install the deb, please install the dependency package in Deepin:
 ### Install the deb:
 
 ```
-# dpkg -i deepin-galliumos-samus_2.9901_all.deb
+# dpkg -i deepin-galliumos-samus_2.99901_all.deb
 ```
 
