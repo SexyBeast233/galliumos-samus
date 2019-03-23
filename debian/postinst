@@ -1,0 +1,8 @@
+#!/bin/bash
+
+set -e
+
+/usr/bin/samus-alsaenable-speakers
+systemctl enable audio.service
+
+exit 0
